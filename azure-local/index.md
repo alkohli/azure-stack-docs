@@ -1,1 +1,1 @@
-# Welcome to AzureLocal!
+# Welcome
